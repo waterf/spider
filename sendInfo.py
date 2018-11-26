@@ -22,7 +22,7 @@ from email.header import Header
 def send_mail(text):
 	mail_host = "smtp.qq.com"
 	mail_user = "985926011@qq.com"
-	mail_pass = "yohcszhpljlkbbbi"
+	mail_pass = "***************"
 
 	sender = "985926011@qq.com"
 	receivers = ["985926011@qq.com", "2214137007@qq.com"]
